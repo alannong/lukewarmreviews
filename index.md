@@ -1,13 +1,10 @@
-# Welcome to Lukewarm Reviews
-### Ordinary Reviews by Ordinary People
-
 ## Recent Reviews
 
 **Worst Names for your review brand**
 
 1. Notes of Lukey
 
-_it's a short list because there aren't any names worse than our #1_
+_it's a short list because there aren't any names worse_
 
 
 **Top 3 Names of People You Should Avoid**
