@@ -1,39 +1,18 @@
-## Welcome to Lukewarm Reviews
-```
-### Ordinary Reviews by Ordinary People, Nothing Extra
-```
-You can use the [editor on GitHub](https://github.com/alannong/lukewarmreviews.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Welcome to Lukewarm Reviews
+## Ordinary Reviews by Ordinary People, Nothing Extra
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Recent Reviews
 
-### Markdown
+**Worst Names for your review brand**
+1. Notes of Lukey
+2. 
+3.
+_...it's a short list because there aren't that any names worse than our #1_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+**Top 3 Names of People You Should Avoid**
+- Lucas
+- Lukey
+- Luke
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alannong/lukewarmreviews.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+_More Reviews Coming Soon_
