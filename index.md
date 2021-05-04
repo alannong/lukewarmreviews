@@ -6,8 +6,6 @@
 **Worst Names for your review brand**
 
 1. Notes of Lukey
-2.  
-3. 
 
 _it's a short list because there aren't any names worse than our #1_
 
