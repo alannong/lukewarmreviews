@@ -9,7 +9,7 @@
 2.  
 3. 
 
-_it's a short list because there aren't that any names worse than our #1_
+_it's a short list because there aren't any names worse than our #1_
 
 
 **Top 3 Names of People You Should Avoid**
